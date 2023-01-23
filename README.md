@@ -78,5 +78,5 @@ Link: https://inkforall.com/
 26. Thundercontent: Generate Content with AI
 Link: https://thundercontent.com/
 
-27. Krise: Removes background voices, noises and echo during calls.
+27. Krisp: Removes background voices, noises and echo during calls.
 Link: https://krisp.ai/
