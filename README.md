@@ -80,3 +80,7 @@ Link: https://thundercontent.com/
 
 27. Krisp: Removes background voices, noises and echo during calls.
 Link: https://krisp.ai/
+
+
+28. Taskade: Generate task lists, mind maps, and structured notes with built-in AI chat.
+Link: https://taskade.com/
