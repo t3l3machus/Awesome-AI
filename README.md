@@ -84,3 +84,6 @@ Link: https://krisp.ai/
 
 28. Taskade: Generate task lists, mind maps, and structured notes with built-in AI chat.
 Link: https://taskade.com/
+
+29. Bard: It's large language model from Google AI. It can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. It have internet access to give lastest information.
+Link: https://bard.google.com/
