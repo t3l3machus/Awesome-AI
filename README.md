@@ -81,9 +81,11 @@ Link: https://thundercontent.com/
 27. Krisp: Removes background voices, noises and echo during calls.
 Link: https://krisp.ai/
 
-
 28. Taskade: Generate task lists, mind maps, and structured notes with built-in AI chat.
 Link: https://taskade.com/
 
 29. Bard: It's large language model from Google AI. It can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. It have internet access to give lastest information.
 Link: https://bard.google.com/
+
+30. PageLines: Create custom ChatGPT agents for your website to enhance and assist the visitor experience.
+Link: https://www.pagelines.com
