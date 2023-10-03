@@ -89,3 +89,6 @@ Link: https://bard.google.com/
 
 30. PageLines: Create custom ChatGPT agents for your website to enhance and assist the visitor experience.
 Link: https://www.pagelines.com
+
+31. Image enhancer & upscaler
+Link: https://letsenhance.io/
