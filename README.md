@@ -12,6 +12,9 @@ Link: https://cleanvoice.ai/
 4. Podcastle: Studio quality recording, right from your computer
 Link: https://podcastle.ai/
 
+4b. OneMira C1: Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, and Zero Cloud privacy ($0/mo subscription)
+Link: https://onemira.com/products/c1
+
 5. Flair: Design branded content in a flash
 Link: https://flair.ai/
 
